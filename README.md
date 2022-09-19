@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/giaabaoo](https://github.com/giaabaoo)
 
-- 📝 I regularly write articles on [https://medium.com/@_giaabaoo_](https://medium.com/@_giaabaoo_)
+- 📝 I write articles on [https://medium.com/@_giaabaoo_](https://medium.com/@_giaabaoo_)
 
 - 📫 How to reach me **dinhhogiabao@gmail.com**
 
