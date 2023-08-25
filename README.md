@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giaabaoo&label=Profile%20views&color=0e75b6&style=flat" alt="giaabaoo" /> </p>
 
-- 🔭 I’m currently working on [medical image processing](https://github.com/giaabaoo/SpineXR-detection)
+- 🔭 I’m currently working on conversational turning point detection
 
 - 👨‍💻 All of my projects are available at [https://github.com/giaabaoo](https://github.com/giaabaoo)
 
