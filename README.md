@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giaabaoo&label=Profile%20views&color=0e75b6&style=flat" alt="giaabaoo" /> </p>
 
-- 🔭 I’m currently working on conversational turning point detection
+- 🔭 I’m currently working on Knowledge Removal in Large Language Models, [Google Scholar](https://scholar.google.com/citations?user=wdyU2XMAAAAJ&hl=en).
 
-- 👨‍💻 All of my projects are available at [https://github.com/giaabaoo](https://github.com/giaabaoo)
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/giaabaoo).
 
-- 📝 I write articles on [https://medium.com/@_giaabaoo_](https://medium.com/@_giaabaoo_)
+- 📝 I share my own thoughts and papers on [X](https://x.com/giabaodinhho).
 
-- 📫 How to reach me **dinhhogiabao@gmail.com**
+- 📫 How to reach me **dinhhogiabao@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
