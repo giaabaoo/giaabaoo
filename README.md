@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gia-Bao Dinh Ho</h1>
-<h3 align="center">A passionate AI researcher from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Bao Dinh</h1>
+<h3 align="center">Currently doing AI Safety research as a MSc student at MBZUAI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giaabaoo&label=Profile%20views&color=0e75b6&style=flat" alt="giaabaoo" /> </p>
 
-- 🔭 I’m currently working on Knowledge Removal in Large Language Models, [Google Scholar](https://scholar.google.com/citations?user=wdyU2XMAAAAJ&hl=en).
+- 🔭 I’m working on Representation Engineering & AI Safety in Large Language Models, [Google Scholar](https://scholar.google.com/citations?user=wdyU2XMAAAAJ&hl=en).
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/giaabaoo).
 
 - 📝 I share my own thoughts and papers on [X](https://x.com/giabaodinhho).
 
-- 📫 How to reach me **dinhhogiabao@gmail.com**.
+- 📫 How to reach me **dinhhogiabao@gmail.com** or **bao.dinh@mbzuai.ac.ae**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
